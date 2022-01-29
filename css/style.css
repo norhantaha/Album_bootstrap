@@ -1,0 +1,17 @@
+header{
+    min-height: 100px;
+}
+section{
+    min-height: 200px;
+}
+section > div{
+    min-height: 200px;
+
+}
+.block{
+    min-height: 300px;
+
+}
+footer{
+    min-height: 170px;
+}
